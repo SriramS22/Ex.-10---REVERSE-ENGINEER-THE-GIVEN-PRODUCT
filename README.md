@@ -34,9 +34,10 @@
 
 ### Output:
 
+![image](https://github.com/SriramS22/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119094390/23f32fee-b43b-4fec-b9d7-6be1746b239e)
 
-### Name:
-### Register Number:
+### Name: Sriram.S
+### Register Number: 2122222240105
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
